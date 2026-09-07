@@ -1,2 +1,7 @@
-# business-analytics-practice
-Practice repository for learning GitHub and documenting business analytics projects.
+LinkedIn Analytics
+
+This project analyses LinkedIn content performance, audience growth, and visitor engagement using Excel and Power BI.
+
+Project Status
+
+In development.
