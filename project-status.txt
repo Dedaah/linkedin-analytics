@@ -1,0 +1,11 @@
+LinkedIn Analytics Portfolio Project
+
+Project status: In development
+
+Tools:
+- Excel
+- Power BI
+- GitHub
+
+Purpose:
+This project demonstrates business analytics, data preparation, visualization, and business insight generation.
