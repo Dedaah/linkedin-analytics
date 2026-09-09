@@ -1,0 +1,13 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Excel temporary/lock files
+~$*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Power BI temporary/recovery files
+*.pbi*
