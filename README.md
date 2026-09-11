@@ -194,17 +194,17 @@ The individual post pages were designed to determine whether organic distributio
 
 ## Dashboard Preview
 
-<!-- IMAGE 1: Insert a screenshot of the Organic Performance Review page here -->
-
 ### Organic Performance Review
 
 The organic dashboard provides an overview of content performance before paid amplification.
 
-<!-- IMAGE 2: Insert a screenshot of the Sponsored Performance Review page here -->
+![Organic Performance Review](assets/dashboard%20screenshots/organic-performance.png)
 
 ### Sponsored Performance Review
 
 The sponsored dashboard evaluates how the selected content performed after paid amplification.
+
+![Sponsored Performance Review](assets/dashboard%20screenshots/sponsored-performance.png)
 
 ---
 
@@ -214,7 +214,7 @@ The project also evaluated each selected post individually.
 
 The P01–P05 pages enabled a direct comparison between organic and sponsored performance for each post, helping identify differences in audience response and campaign effectiveness.
 
-<!-- IMAGE 3: Insert one representative screenshot from P01, P02, P03, P04 or P05 here -->
+![Post-Level Analysis](assets/dashboard%20screenshots/post-level-analysis.png)
 
 This post-level analysis helped identify that sponsored performance varied across individual posts rather than producing the same outcome for every piece of content.
 
