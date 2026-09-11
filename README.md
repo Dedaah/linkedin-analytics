@@ -1,201 +1,104 @@
-# **# LinkedIn Analytics: Organic vs Sponsored Content Performance**
-
-
+# LinkedIn Analytics: Organic vs Sponsored Content Performance
 
 > A Power BI marketing analytics project evaluating the impact of paid amplification on LinkedIn content visibility, clicks, engagement, and audience response.
 
-
-
 **Project Period:** 1–31 March 2026
-
-
-
-\---
-
-
-
-### **## Project Overview**
-
-
-
-This project analyzes LinkedIn content performance to evaluate the impact of paid amplification on audience visibility and engagement.
-
-
-
-The analysis compares the organic performance of five selected LinkedIn posts with their performance after they were sponsored/boosted.
-
-
-
-The project was developed to support marketing decision-making by identifying whether paid promotion improved key performance indicators such as impressions and clicks, while also assessing whether organic distribution generated stronger audience engagement.
-
-
-
-\---
-
-
-
-### **## Business Problem**
-
-
-
-The marketing team needed to understand whether sponsoring existing LinkedIn content produced better results than relying on organic distribution alone.
-
-
-
-While paid promotion can increase the number of people exposed to content, greater reach does not necessarily translate into stronger audience interaction.
-
-
-
-The project therefore, focused on the following business question:
-
-
-
-> **Does sponsoring high-performing LinkedIn content improve its overall performance, and which content characteristics generate the strongest audience response?**
-
-
-
-\---
-
-
-
-### **## Project Objectives**
-
-
-
-The analysis was designed to:
-
-
-
-\- Compare organic and sponsored LinkedIn performance.
-
-\- Measure the impact of paid amplification on impressions and clicks.
-
-\- Compare engagement and audience reactions between organic and sponsored distribution.
-
-\- Evaluate the performance of individual posts before and after sponsorship.
-
-\- Compare carousel and video content performance.
-
-\- Identify content patterns that could inform future marketing decisions.
-
-\- Provide recommendations for improving future organic and paid LinkedIn campaigns.
-
-
-
-\---
-
-
-
-### **## Data**
-
-
-
-The analysis used performance data exported from LinkedIn.
-
-
-
-Three Excel datasets were initially obtained:
-
-
-
-\- Content data
-
-\- Follower data
-
-\- Visitor data
-
-
-
-For the final analysis, the relevant content information was consolidated into a separate Excel analytical workbook.
-
-
-
-The follower and visitor datasets were collected as part of the LinkedIn data export but were **not used in the final Power BI analysis**.
-
-
-
-##### **### Content Selection**
-
-
-
-The analysis focused on five top-performing LinkedIn posts identified from approximately the previous 1.5 years.
-
-
-
-The selected posts were assigned unique identifiers:
-
-
-
-| Post ID |
-
-|---|
-
-| P01 |
-
-| P02 |
-
-| P03 |
-
-| P04 |
-
-| P05 |
-
-
-
-These five posts were subsequently sponsored/boosted to enable a direct comparison between their organic and sponsored performance.
-
-
-
-\---
-
-
-
-### **## Analytical Workflow**
-
-
-
-```text
-
-LinkedIn Data Exports
-
-&#x20;       ↓
-
-Top Five Posts Identified
-
-&#x20;       ↓
-
-Posts Assigned IDs (P01–P05)
-
-&#x20;       ↓
-
-Organic \& Sponsored Data Consolidated in Excel
-
-&#x20;       ↓
-
-Excel Connected to Power BI
-
-&#x20;       ↓
-
-Data Transformation in Power Query
-
-&#x20;       ↓
-
-Calculated Measures Created in Power BI
-
-&#x20;       ↓
-
-Dashboard Development
-
-&#x20;       ↓
-
-Organic vs Sponsored Performance Analysis
-
-&#x20;       ↓
-
-Insights \& Recommendations
 
 ---
 
+## Project Overview
+
+This project analyzes LinkedIn content performance to evaluate the impact of paid amplification on audience visibility and engagement.
+
+The analysis compares the organic performance of five selected LinkedIn posts with their performance after they were sponsored/boosted.
+
+The project was developed to support marketing decision-making by identifying whether paid promotion improved key performance indicators such as impressions and clicks, while also assessing whether organic distribution generated stronger audience engagement.
+
+---
+
+## Business Problem
+
+The marketing team needed to understand whether sponsoring existing LinkedIn content produced better results than relying on organic distribution alone.
+
+While paid promotion can increase the number of people exposed to content, greater reach does not necessarily translate into stronger audience interaction.
+
+The project therefore focused on the following business question:
+
+> **Does sponsoring high-performing LinkedIn content improve its overall performance, and which content characteristics generate the strongest audience response?**
+
+---
+
+## Project Objectives
+
+The analysis was designed to:
+
+* Compare organic and sponsored LinkedIn performance.
+* Measure the impact of paid amplification on impressions and clicks.
+* Compare engagement and audience reactions between organic and sponsored distribution.
+* Evaluate the performance of individual posts before and after sponsorship.
+* Compare carousel and video content performance.
+* Identify content patterns that could inform future marketing decisions.
+* Provide recommendations for improving future organic and paid LinkedIn campaigns.
+
+---
+
+## Data
+
+The analysis used performance data exported from LinkedIn.
+
+Three Excel datasets were initially obtained:
+
+* Content data
+* Follower data
+* Visitor data
+
+For the final analysis, the relevant content information was consolidated into a separate Excel analytical workbook.
+
+The follower and visitor datasets were collected as part of the LinkedIn data export but were **not used in the final Power BI analysis**.
+
+### Content Selection
+
+The analysis focused on five top-performing LinkedIn posts identified from approximately the previous 1.5 years.
+
+The selected posts were assigned unique identifiers:
+
+| Post ID |
+| ------- |
+| P01     |
+| P02     |
+| P03     |
+| P04     |
+| P05     |
+
+These five posts were subsequently sponsored/boosted to enable a direct comparison between their organic and sponsored performance.
+
+---
+
+## Analytical Workflow
+
+```text
+LinkedIn Data Exports
+        ↓
+Top Five Posts Identified
+        ↓
+Posts Assigned IDs (P01–P05)
+        ↓
+Organic & Sponsored Data Consolidated in Excel
+        ↓
+Excel Connected to Power BI
+        ↓
+Data Transformation in Power Query
+        ↓
+Calculated Measures Created in Power BI
+        ↓
+Dashboard Development
+        ↓
+Organic vs Sponsored Performance Analysis
+        ↓
+Insights & Recommendations
+```
+
+---
 
 ## Data Preparation
 
@@ -203,11 +106,11 @@ The consolidated Excel workbook was connected to Power BI and prepared using Pow
 
 Key transformation activities included:
 
-- Promoting headers
-- Changing data types
-- Removing unnecessary columns
-- Adding additional columns
-- Reordering columns
+* Promoting headers
+* Changing data types
+* Removing unnecessary columns
+* Adding additional columns
+* Reordering columns
 
 After data preparation, calculations and measures were created in the Power BI modelling environment to support the performance analysis.
 
@@ -215,23 +118,23 @@ After data preparation, calculations and measures were created in the Power BI m
 
 ## Tools & Technologies
 
-| Tool | Purpose |
-|---|---|
-| **Microsoft Excel** | Data consolidation and preparation |
-| **Power Query** | Data transformation and cleaning |
+| Tool                   | Purpose                                                               |
+| ---------------------- | --------------------------------------------------------------------- |
+| **Microsoft Excel**    | Data consolidation and preparation                                    |
+| **Power Query**        | Data transformation and cleaning                                      |
 | **Microsoft Power BI** | Data modelling, calculations, visualization and dashboard development |
-| **LinkedIn Analytics** | Source of content and campaign performance data |
+| **LinkedIn Analytics** | Source of content and campaign performance data                       |
 
 ---
 
 ## Key Performance Results
 
-| KPI | Organic | Sponsored | Key Observation |
-|---|---:|---:|---|
-| **Impressions** | 2.23K | 15.6K | Sponsored generated substantially greater visibility |
-| **Clicks** | 397 | 573 | Sponsored generated more clicks |
-| **Average Engagement Rate** | 14.00% | 7.83% | Organic achieved stronger engagement efficiency |
-| **Reactions** | 53 | 14 | Organic generated substantially more reactions |
+| KPI                         | Organic | Sponsored | Key Observation                                      |
+| --------------------------- | ------: | --------: | ---------------------------------------------------- |
+| **Impressions**             |   2.23K |     15.6K | Sponsored generated substantially greater visibility |
+| **Clicks**                  |     397 |       573 | Sponsored generated more clicks                      |
+| **Average Engagement Rate** |  14.00% |     7.83% | Organic achieved stronger engagement efficiency      |
+| **Reactions**               |      53 |        14 | Organic generated substantially more reactions       |
 
 ### What the Results Show
 
@@ -383,32 +286,32 @@ The project demonstrated that the effectiveness of paid amplification depends on
 
 This provides a basis for aligning future LinkedIn campaigns with specific objectives:
 
-| Objective | Recommended Approach |
-|---|---|
-| Increase visibility | Sponsored promotion |
-| Improve engagement efficiency | Organic content |
-| Increase audience interaction | Carousel content |
+| Objective                        | Recommended Approach                 |
+| -------------------------------- | ------------------------------------ |
+| Increase visibility              | Sponsored promotion                  |
+| Improve engagement efficiency    | Organic content                      |
+| Increase audience interaction    | Carousel content                     |
 | Select content for amplification | Prioritize strong organic performers |
 
 ---
 
 ## Skills Demonstrated
 
-- Business Analytics
-- Marketing Analytics
-- Data Preparation
-- Microsoft Excel
-- Power Query
-- Power BI
-- Data Modelling
-- Calculated Measures
-- Data Visualization
-- KPI Analysis
-- Comparative Analysis
-- Performance Analysis
-- Business Insight Generation
-- Data-Driven Recommendations
-- Analytical Storytelling
+* Business Analytics
+* Marketing Analytics
+* Data Preparation
+* Microsoft Excel
+* Power Query
+* Power BI
+* Data Modelling
+* Calculated Measures
+* Data Visualization
+* KPI Analysis
+* Comparative Analysis
+* Performance Analysis
+* Business Insight Generation
+* Data-Driven Recommendations
+* Analytical Storytelling
 
 ---
 
@@ -434,6 +337,7 @@ linkedin-analytics/
 │
 └── reports/
     └── analysis reports
+```
 
 ---
 
@@ -449,4 +353,4 @@ The purpose of this repository is to demonstrate the analytical workflow, techni
 
 ## Author
 
-Gifty Dedaah Kumah 
+**Gifty Dedaah Kumah**
