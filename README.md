@@ -12,7 +12,7 @@ This project analyzes LinkedIn content performance to evaluate the impact of pai
 
 The analysis compares the organic performance of five selected LinkedIn posts with their performance after they were sponsored/boosted.
 
-The project was developed to support marketing decision-making by identifying whether paid promotion improved key performance indicators such as impressions and clicks, while also assessing whether organic distribution generated stronger audience engagement.
+The project was developed to support marketing decision-making by determining whether paid promotion improved key performance indicators, such as impressions and clicks, and assessing whether organic distribution generated stronger audience engagement.
 
 ---
 
@@ -323,21 +323,24 @@ linkedin-analytics/
 ├── README.md
 │
 ├── assets/
-│   └── dashboard screenshots
+│   └── dashboard screenshots/
+│       ├── organic-performance.png
+│       ├── post-level-analysis.png
+│       └── sponsored-performance.png
 │
 ├── data/
 │   └── processed/
 │       └── linkedin-analytics-data.xlsx
 │
 ├── documentation/
-│   └── project documentation
+│   ├── data_dictionary.md
+│   └── linkedin_analytics_project_documentation.md
 │
 ├── power-bi/
 │   └── linkedin-analytics-dashboard.pbix
 │
 └── reports/
-    └── analysis reports
-```
+    └── linkedIn_advertising_performance_report.pdf
 
 ---
 
@@ -345,7 +348,7 @@ linkedin-analytics/
 
 The repository contains a portfolio version of the project.
 
-Any confidential, personally identifiable, commercially sensitive or restricted business information should be removed or anonymized before public distribution.
+Any confidential, personally identifiable, commercially sensitive or restricted business information has been anonymized before public distribution.
 
 The purpose of this repository is to demonstrate the analytical workflow, technical skills and business reasoning applied during the project.
 
@@ -353,4 +356,4 @@ The purpose of this repository is to demonstrate the analytical workflow, techni
 
 ## Author
 
-**Gifty Dedaah Kumah**
+**Gifty Kumah**
