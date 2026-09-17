@@ -342,18 +342,14 @@ linkedin-analytics/
 └── reports/
     └── linkedIn_advertising_performance_report.pdf
 
----
-
-## Data Privacy
+Data Privacy
 
 The repository contains a portfolio version of the project.
 
-Any confidential, personally identifiable, commercially sensitive or restricted business information has been anonymized before public distribution.
+Any confidential, personally identifiable, commercially sensitive, or restricted business information has been anonymized before public distribution.
 
-The purpose of this repository is to demonstrate the analytical workflow, technical skills and business reasoning applied during the project.
+The purpose of this repository is to demonstrate the analytical workflow, technical skills, and business reasoning applied during the project.
 
----
+Author
 
-## Author
-
-**Gifty Kumah**
+Gifty Kumah
