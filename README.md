@@ -131,17 +131,11 @@ The selected posts were assigned unique identifiers:
 
 
 | Post ID |
-
 | ------- |
-
 | P01     |
-
 | P02     |
-
 | P03     |
-
 | P04     |
-
 | P05     |
 
 
@@ -243,15 +237,10 @@ After data preparation, calculations and measures were created in the Power BI m
 
 
 | Tool                   | Purpose                                                               |
-
 | ---------------------- | --------------------------------------------------------------------- |
-
 | **Microsoft Excel**    | Data consolidation and preparation                                    |
-
 | **Power Query**        | Data transformation and cleaning                                      |
-
 | **Microsoft Power BI** | Data modelling, calculations, visualization and dashboard development |
-
 | **LinkedIn Analytics** | Source of content and campaign performance data                       |
 
 
@@ -265,15 +254,10 @@ After data preparation, calculations and measures were created in the Power BI m
 
 
 | KPI                     | Organic | Sponsored | Key Observation                                      |
-
 | ----------------------- | ------: | --------: | ---------------------------------------------------- |
-
 | Impressions             |   2.23K |     15.6K | Sponsored generated substantially greater visibility |
-
 | Clicks                  |     397 |       573 | Sponsored generated more clicks                      |
-
 | Average Engagement Rate |  14.00% |     7.83% | Organic achieved stronger engagement efficiency      |
-
 | Reactions               |      53 |        14 | Organic generated substantially more reactions       |
 
 
@@ -587,15 +571,10 @@ This provides a basis for aligning future LinkedIn campaigns with specific objec
 
 
 | Objective                        | Recommended Approach                 |
-
 | -------------------------------- | ------------------------------------ |
-
 | Increase visibility              | Sponsored promotion                  |
-
 | Improve engagement efficiency    | Organic content                      |
-
 | Increase audience interaction    | Carousel content                     |
-
 | Select content for amplification | Prioritize strong organic performers |
 
 
