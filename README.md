@@ -1,4 +1,4 @@
-\# LinkedIn Analytics: Organic vs Sponsored Content Performance
+# LinkedIn Analytics: Organic vs Sponsored Content Performance
 
 
 
@@ -6,15 +6,15 @@ A Power BI marketing analytics project evaluating the impact of paid amplificati
 
 
 
-\*\*Project Period:\*\* 1–31 March 2026
+**Project Period:** 1–31 March 2026
 
 
 
-\---
+---
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -30,11 +30,11 @@ The project was developed to support marketing decision-making by determining wh
 
 
 
-\---
+---
 
 
 
-\## Business Problem
+## Business Problem
 
 
 
@@ -50,15 +50,15 @@ The project therefore focused on the following business question:
 
 
 
-> \*\*Does sponsoring high-performing LinkedIn content improve its overall performance, and which content characteristics generate the strongest audience response?\*\*
+> **Does sponsoring high-performing LinkedIn content improve its overall performance, and which content characteristics generate the strongest audience response?**
 
 
 
-\---
+---
 
 
 
-\## Project Objectives
+## Project Objectives
 
 
 
@@ -66,27 +66,27 @@ The analysis was designed to:
 
 
 
-\* Compare organic and sponsored LinkedIn performance.
+* Compare organic and sponsored LinkedIn performance.
 
-\* Measure the impact of paid amplification on impressions and clicks.
+* Measure the impact of paid amplification on impressions and clicks.
 
-\* Compare engagement and audience reactions between organic and sponsored distribution.
+* Compare engagement and audience reactions between organic and sponsored distribution.
 
-\* Evaluate the performance of individual posts before and after sponsorship.
+* Evaluate the performance of individual posts before and after sponsorship.
 
-\* Compare carousel and video content performance.
+* Compare carousel and video content performance.
 
-\* Identify content patterns that could inform future marketing decisions.
+* Identify content patterns that could inform future marketing decisions.
 
-\* Provide recommendations for improving future organic and paid LinkedIn campaigns.
-
-
-
-\---
+* Provide recommendations for improving future organic and paid LinkedIn campaigns.
 
 
 
-\## Data
+---
+
+
+
+## Data
 
 
 
@@ -98,11 +98,11 @@ Three Excel datasets were initially obtained:
 
 
 
-\* Content data
+* Content data
 
-\* Follower data
+* Follower data
 
-\* Visitor data
+* Visitor data
 
 
 
@@ -110,15 +110,15 @@ For the final analysis, the relevant content information was consolidated into a
 
 
 
-The follower and visitor datasets were collected as part of the LinkedIn data export but were \*\*not used in the final Power BI analysis\*\*.
+The follower and visitor datasets were collected as part of the LinkedIn data export but were **not used in the final Power BI analysis**.
 
 
 
-\---
+---
 
 
 
-\## Content Selection
+## Content Selection
 
 
 
@@ -150,11 +150,11 @@ These five posts were subsequently sponsored/boosted to enable a direct comparis
 
 
 
-\---
+---
 
 
 
-\## Analytical Workflow
+## Analytical Workflow
 
 
 
@@ -162,51 +162,51 @@ These five posts were subsequently sponsored/boosted to enable a direct comparis
 
 LinkedIn Data Exports
 
-&#x20;       ↓
+       ↓
 
 Top Five Posts Identified
 
-&#x20;       ↓
+       ↓
 
 Posts Assigned IDs (P01–P05)
 
-&#x20;       ↓
+       ↓
 
-Organic \& Sponsored Data Consolidated in Excel
+Organic & Sponsored Data Consolidated in Excel
 
-&#x20;       ↓
+       ↓
 
 Excel Connected to Power BI
 
-&#x20;       ↓
+       ↓
 
 Data Transformation in Power Query
 
-&#x20;       ↓
+       ↓
 
 Calculated Measures Created in Power BI
 
-&#x20;       ↓
+       ↓
 
 Dashboard Development
 
-&#x20;       ↓
+       ↓
 
 Organic vs Sponsored Performance Analysis
 
-&#x20;       ↓
+       ↓
 
-Insights \& Recommendations
+Insights & Recommendations
 
 ```
 
 
 
-\---
+---
 
 
 
-\## Data Preparation
+## Data Preparation
 
 
 
@@ -218,15 +218,15 @@ Key transformation activities included:
 
 
 
-\* Promoting headers
+* Promoting headers
 
-\* Changing data types
+* Changing data types
 
-\* Removing unnecessary columns
+* Removing unnecessary columns
 
-\* Adding additional columns
+* Adding additional columns
 
-\* Reordering columns
+* Reordering columns
 
 
 
@@ -234,11 +234,11 @@ After data preparation, calculations and measures were created in the Power BI m
 
 
 
-\---
+---
 
 
 
-\## Tools \& Technologies
+## Tools & Technologies
 
 
 
@@ -246,21 +246,21 @@ After data preparation, calculations and measures were created in the Power BI m
 
 | ---------------------- | --------------------------------------------------------------------- |
 
-| \*\*Microsoft Excel\*\*    | Data consolidation and preparation                                    |
+| **Microsoft Excel**    | Data consolidation and preparation                                    |
 
-| \*\*Power Query\*\*        | Data transformation and cleaning                                      |
+| **Power Query**        | Data transformation and cleaning                                      |
 
-| \*\*Microsoft Power BI\*\* | Data modelling, calculations, visualization and dashboard development |
+| **Microsoft Power BI** | Data modelling, calculations, visualization and dashboard development |
 
-| \*\*LinkedIn Analytics\*\* | Source of content and campaign performance data                       |
-
-
-
-\---
+| **LinkedIn Analytics** | Source of content and campaign performance data                       |
 
 
 
-\## Key Performance Results
+---
+
+
+
+## Key Performance Results
 
 
 
@@ -278,27 +278,27 @@ After data preparation, calculations and measures were created in the Power BI m
 
 
 
-\---
+---
 
 
 
-\## What the Results Show
+## What the Results Show
 
 
 
-\### 1. Sponsored content generated significantly greater visibility
+### 1. Sponsored content generated significantly greater visibility
 
 
 
-Sponsored distribution generated \*\*15.6K impressions\*\* compared with \*\*2.23K organically\*\*, representing approximately seven times the organic impression volume.
+Sponsored distribution generated **15.6K impressions** compared with **2.23K organically**, representing approximately seven times the organic impression volume.
 
 
 
-\### 2. Sponsored content generated more clicks
+### 2. Sponsored content generated more clicks
 
 
 
-Sponsored content recorded \*\*573 clicks\*\* compared with \*\*397 organically\*\*.
+Sponsored content recorded **573 clicks** compared with **397 organically**.
 
 
 
@@ -306,27 +306,27 @@ However, the increase in clicks was considerably smaller than the increase in im
 
 
 
-\### 3. Organic content generated stronger engagement efficiency
+### 3. Organic content generated stronger engagement efficiency
 
 
 
-Organic content achieved an average engagement rate of \*\*14%\*\*, compared with \*\*7.83%\*\* for sponsored content.
+Organic content achieved an average engagement rate of **14%**, compared with **7.83%** for sponsored content.
 
 
 
-\### 4. Organic content generated more reactions
+### 4. Organic content generated more reactions
 
 
 
-Organic content generated \*\*53 reactions\*\* compared with \*\*14\*\* from sponsored content, indicating stronger expressive audience interaction under organic distribution.
+Organic content generated **53 reactions** compared with **14** from sponsored content, indicating stronger expressive audience interaction under organic distribution.
 
 
 
-\---
+---
 
 
 
-\## Power BI Dashboard
+## Power BI Dashboard
 
 
 
@@ -334,7 +334,7 @@ The completed Power BI report contains seven pages:
 
 
 
-\### Organic Performance Review
+### Organic Performance Review
 
 
 
@@ -342,7 +342,7 @@ Provides an overview of LinkedIn content performance under organic distribution.
 
 
 
-\### Sponsored Performance Review
+### Sponsored Performance Review
 
 
 
@@ -350,7 +350,7 @@ Evaluates the performance of the selected posts after paid amplification.
 
 
 
-\### P01
+### P01
 
 
 
@@ -358,7 +358,7 @@ Compares the organic and sponsored performance of Post 01.
 
 
 
-\### P02
+### P02
 
 
 
@@ -366,7 +366,7 @@ Compares the organic and sponsored performance of Post 02.
 
 
 
-\### P03
+### P03
 
 
 
@@ -374,7 +374,7 @@ Compares the organic and sponsored performance of Post 03.
 
 
 
-\### P04
+### P04
 
 
 
@@ -382,7 +382,7 @@ Compares the organic and sponsored performance of Post 04.
 
 
 
-\### P05
+### P05
 
 
 
@@ -394,15 +394,15 @@ The individual post pages were designed to determine whether organic distributio
 
 
 
-\---
+---
 
 
 
-\## Dashboard Preview
+## Dashboard Preview
 
 
 
-\### Organic Performance Review
+### Organic Performance Review
 
 
 
@@ -410,11 +410,11 @@ The organic dashboard provides an overview of content performance before paid am
 
 
 
-!\[Organic Performance Review](assets/dashboard%20screenshots/organic-performance.png)
+![Organic Performance Review](assets/dashboard%20screenshots/organic-performance.png)
 
 
 
-\### Sponsored Performance Review
+### Sponsored Performance Review
 
 
 
@@ -422,15 +422,15 @@ The sponsored dashboard evaluates how the selected content performed after paid 
 
 
 
-!\[Sponsored Performance Review](assets/dashboard%20screenshots/sponsored-performance.png)
+![Sponsored Performance Review](assets/dashboard%20screenshots/sponsored-performance.png)
 
 
 
-\---
+---
 
 
 
-\## Post-Level Analysis
+## Post-Level Analysis
 
 
 
@@ -442,7 +442,7 @@ The P01–P05 pages enabled a direct comparison between organic and sponsored pe
 
 
 
-!\[Post-Level Analysis](assets/dashboard%20screenshots/post-level-analysis.png)
+![Post-Level Analysis](assets/dashboard%20screenshots/post-level-analysis.png)
 
 
 
@@ -450,15 +450,15 @@ This post-level analysis helped identify that sponsored performance varied acros
 
 
 
-\---
+---
 
 
 
-\## Key Insights
+## Key Insights
 
 
 
-\### 1. Paid amplification was highly effective for visibility
+### 1. Paid amplification was highly effective for visibility
 
 
 
@@ -470,7 +470,7 @@ This demonstrates that paid promotion can be effective when the primary objectiv
 
 
 
-\### 2. Increased reach did not translate proportionally into engagement
+### 2. Increased reach did not translate proportionally into engagement
 
 
 
@@ -482,7 +482,7 @@ This suggests that increasing reach alone does not guarantee stronger audience i
 
 
 
-\### 3. Organic content demonstrated stronger audience resonance
+### 3. Organic content demonstrated stronger audience resonance
 
 
 
@@ -490,7 +490,7 @@ Organic content generated higher engagement rates and reactions, suggesting that
 
 
 
-\### 4. Sponsored click performance varied by post
+### 4. Sponsored click performance varied by post
 
 
 
@@ -502,7 +502,7 @@ This indicates that content quality and relevance remain important factors even 
 
 
 
-\### 5. Carousel content outperformed video
+### 5. Carousel content outperformed video
 
 
 
@@ -514,15 +514,15 @@ This suggests that carousel formats were particularly effective for audience int
 
 
 
-\---
+---
 
 
 
-\## Business Recommendations
+## Business Recommendations
 
 
 
-\### 1. Amplify content that already performs well organically
+### 1. Amplify content that already performs well organically
 
 
 
@@ -530,7 +530,7 @@ Use organic performance as an initial indicator when selecting content for paid 
 
 
 
-\### 2. Use paid promotion strategically for visibility
+### 2. Use paid promotion strategically for visibility
 
 
 
@@ -538,7 +538,7 @@ Sponsored campaigns should be used when the primary objective is increasing bran
 
 
 
-\### 3. Prioritize carousel content for audience interaction
+### 3. Prioritize carousel content for audience interaction
 
 
 
@@ -546,7 +546,7 @@ Carousel content demonstrated stronger performance in clicks and engagement and 
 
 
 
-\### 4. Improve paid audience targeting
+### 4. Improve paid audience targeting
 
 
 
@@ -554,7 +554,7 @@ The lower engagement and reaction levels observed across sponsored content sugge
 
 
 
-\### 5. Strengthen hooks and calls-to-action
+### 5. Strengthen hooks and calls-to-action
 
 
 
@@ -562,11 +562,11 @@ Future sponsored content should use stronger hooks, clearer messaging and more c
 
 
 
-\---
+---
 
 
 
-\## Project Outcome
+## Project Outcome
 
 
 
@@ -574,7 +574,7 @@ The project demonstrated that the effectiveness of paid amplification depends on
 
 
 
-\### Key Conclusion
+### Key Conclusion
 
 
 
@@ -600,51 +600,51 @@ This provides a basis for aligning future LinkedIn campaigns with specific objec
 
 
 
-\---
+---
 
 
 
-\## Skills Demonstrated
+## Skills Demonstrated
 
 
 
-\* Business Analytics
+* Business Analytics
 
-\* Marketing Analytics
+* Marketing Analytics
 
-\* Data Preparation
+* Data Preparation
 
-\* Microsoft Excel
+* Microsoft Excel
 
-\* Power Query
+* Power Query
 
-\* Power BI
+* Power BI
 
-\* Data Modelling
+* Data Modelling
 
-\* Calculated Measures
+* Calculated Measures
 
-\* Data Visualization
+* Data Visualization
 
-\* KPI Analysis
+* KPI Analysis
 
-\* Comparative Analysis
+* Comparative Analysis
 
-\* Performance Analysis
+* Performance Analysis
 
-\* Business Insight Generation
+* Business Insight Generation
 
-\* Data-Driven Recommendations
+* Data-Driven Recommendations
 
-\* Analytical Storytelling
-
-
-
-\---
+* Analytical Storytelling
 
 
 
-\## Repository Structure
+---
+
+
+
+## Repository Structure
 
 
 
@@ -680,9 +680,9 @@ linkedin-analytics/
 
 ├── documentation/
 
-│   ├── data\_dictionary.md
+│   ├── data_dictionary.md
 
-│   └── linkedin\_analytics\_project\_documentation.md
+│   └── linkedin_analytics_project_documentation.md
 
 │
 
@@ -694,17 +694,17 @@ linkedin-analytics/
 
 └── reports/
 
-&#x20;   └── linkedIn\_advertising\_performance\_report.pdf
+   └── linkedIn_advertising_performance_report.pdf
 
 ```
 
 
 
-\---
+---
 
 
 
-\## Data Privacy
+## Data Privacy
 
 
 
@@ -720,15 +720,15 @@ The purpose of this repository is to demonstrate the analytical workflow, techni
 
 
 
-\---
+---
 
 
 
-\## Author
+## Author
 
 
 
-\*\*Gifty Kumah\*\*
+**Gifty Kumah**
 
 
 
